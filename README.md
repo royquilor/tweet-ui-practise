@@ -1,3 +1,5 @@
+![t-3b](https://github.com/royquilor/tweet-ui-practise/assets/2366186/81682a33-65fe-4792-9c7a-b38041ebd1a0)
+
 # Tweet UI component
 
 Main goal is to practise recreating the tweet component with Radix UI, Next JS and Tailwind CSS.
