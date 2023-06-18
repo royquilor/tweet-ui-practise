@@ -1,3 +1,7 @@
+# Tweet UI component
+
+Main goal is to practise recreating the tweet component with Radix UI, Next JS and Tailwind CSS.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
